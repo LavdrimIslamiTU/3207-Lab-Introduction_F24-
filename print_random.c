@@ -3,11 +3,9 @@
 #include <time.h>
 
 
-
 int main()
 {
 	int a;
-
 	/* seed the randomizer */
 	srand( (unsigned)time(NULL) );
 
@@ -15,6 +13,7 @@ int main()
 	for(a=0;a<7;a++)
 		putchar( randchar() );
 	putchar('\n');
+	printf("hello");
 
 	return(0);
 }
