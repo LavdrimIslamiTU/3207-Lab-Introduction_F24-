@@ -1,3 +1,6 @@
 {
-    "C_Cpp.default.compilerPath": "c:\\mingw64\\x86_64-14.2.0-release-posix-seh-ucrt-rt_v12-rev0\\mingw64\\bin\\gcc.exe"
+    "C_Cpp.default.compilerPath": "c:\\mingw64\\x86_64-14.2.0-release-posix-seh-ucrt-rt_v12-rev0\\mingw64\\bin\\gcc.exe",
+    "files.associations": {
+        "stdio.h": "c"
+    }
 }
